@@ -1,4 +1,6 @@
-![](https://count.getloli.com/@myouo-profile?name=myouo-profile&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+<div align="center">
+  <img src="https://count.getloli.com/@myouo-profile?name=myouo-profile&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
+</div>
 
 <h1 align="center">Hi there, I'm Nivalis (myouo) 👋</h1>
 
