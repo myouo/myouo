@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://nivalis.is"><img src="https://img.shields.io/badge/Website-nivalis.is-4A90E2?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/myouo"><img src="https://img.shields.io/badge/GitHub-myouo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=myouo&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
