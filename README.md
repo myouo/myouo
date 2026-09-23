@@ -1,3 +1,5 @@
+![](https://count.getloli.com/@myouo-profile?name=myouo-profile&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 <h1 align="center">Hi there, I'm Nivalis (myouo) 👋</h1>
 
 <p align="center">
@@ -15,9 +17,7 @@
 ### ❄️ About Me
 
 - 🎮 **Game Dev & Engines:** Crafting Danmaku / STG engines ([grazer](https://github.com/myouo/grazer)) & Godot indie games ([unrecall](https://github.com/myouo/unrecall)).
-- 🀄 **Game AI & Tools:** Creator of [batchmortal](https://github.com/myouo/batchmortal) (Mortal 4.1 Riichi Mahjong log analyzer) & exploring game RL ([hk_Rl](https://github.com/myouo/hk_Rl)).
-- 🦀 **Systems & Performance:** Building reliable, performant software with **Rust**, **C++**, and **TypeScript**.
-- 🛠️ **Creative Tools:** Tinkering with custom utilities, bots, and productivity tools ([potatouo](https://github.com/myouo/potatouo), [Floe](https://github.com/myouo/Floe)).
+- 🀄 **Game AI & Tools:** Creator of [batchmortal](https://github.com/myouo/batchmortal) (Mortal 4.1 Riichi Mahjong log analyzer) & Coauthor of [RocoAI](https://github.com/fangtiancheng/RocoAI).
 
 ---
 
