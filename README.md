@@ -62,7 +62,7 @@
 | Project | Tech | Description | Stars |
 | :--- | :--- | :--- | :--- |
 |  [**Shinsekai**](https://github.com/RachelForster/Shinsekai) | `Python` | AI RPG Maker  |  ![Stars](https://img.shields.io/github/stars/RachelForster/Shinsekai?style=flat-square) |
-|  [**RocoAI** (private repo)](https://github.com/RachelForster/Shinsekai) | `Rust` | Roco Kingdom AI project  |  |
+|  [**RocoAI** (private repo)](https://github.com/fangtiancheng/RocoAI) | `Rust` | Roco Kingdom AI project  |  |
 | [**batchmortal**](https://github.com/myouo/batchmortal) | `Python` | 批量分析雀魂 / 天凤牌谱 with Mortal 4.1 | ![Stars](https://img.shields.io/github/stars/myouo/batchmortal?style=flat-square) |
 | [**grazer**](https://github.com/myouo/grazer) | `C++` / `Rust` | Danmaku-oriented STG game runtime | ![Stars](https://img.shields.io/github/stars/myouo/grazer?style=flat-square) |
 | [**rocoarena**](https://github.com/myouo/rocoarena) | `C++` | 洛克王国对战模拟与策略研究 | ![Stars](https://img.shields.io/github/stars/myouo/rocoarena?style=flat-square) |
