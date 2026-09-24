@@ -26,14 +26,14 @@
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -42,16 +42,28 @@
 
 <p align="center">
   <a href="https://github.com/myouo">
-    <img src="https://github-stats-extended.vercel.app/api?username=myouo&show_icons=true&theme=tokyonight&rank_icon=github" alt="Nivalis's GitHub Stats" height="195" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=myouo&show_icons=true&show_rank=true&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=myouo&show_icons=true&show_rank=true&theme=default">
+      <img src="https://github-stats-extended.vercel.app/api?username=myouo&show_icons=true&show_rank=true&theme=default" alt="Nivalis's GitHub Stats" height="195" />
+    </picture>
   </a>
   <a href="https://github.com/myouo">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=myouo&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=myouo&layout=compact&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=myouo&layout=compact&theme=default">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=myouo&layout=compact&theme=default" alt="Top Languages" height="195" />
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/myouo">
-    <img src="https://streak-stats.demolab.com/?user=myouo&theme=tokyonight" alt="GitHub Streak" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=myouo&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=myouo&theme=default">
+      <img src="https://streak-stats.demolab.com/?user=myouo&theme=default" alt="GitHub Streak" />
+    </picture>
   </a>
 </p>
 
@@ -67,10 +79,12 @@
 | [**grazer**](https://github.com/myouo/grazer) | `C++` / `Rust` | Danmaku-oriented STG game runtime | ![Stars](https://img.shields.io/github/stars/myouo/grazer?style=flat-square) |
 | [**rocoarena**](https://github.com/myouo/rocoarena) | `C++` | 洛克王国对战模拟与策略研究 | ![Stars](https://img.shields.io/github/stars/myouo/rocoarena?style=flat-square) |
 
-
-
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Random Dev Quote" />
+  </picture>
 </p>
