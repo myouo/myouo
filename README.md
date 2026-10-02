@@ -23,18 +23,25 @@
 ---
 
 <!-- BEGIN NIVALIS DASHBOARD -->
-### 🌐 Live About Me
+### 🎵 网易云 · 听歌记录
 
 <p align="center">
   <a href="https://aboutme.nivalis.is/">
-    <img src="https://svg.aboutme.nivalis.is/dashboard.svg" alt="Nivalis About Me — live music and gaming cards" width="720" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.ranking&amp;id=8f327aa0-f7dc-4b2d-ad36-93047f1dd261&amp;theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.ranking&amp;id=8f327aa0-f7dc-4b2d-ad36-93047f1dd261&amp;theme=light">
+      <img src="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.ranking&amp;id=8f327aa0-f7dc-4b2d-ad36-93047f1dd261&amp;theme=light" alt="网易云 · 听歌双榜" width="720" />
+    </picture>
   </a>
 </p>
-### 🎵 NetEase · Vinyl Edition
 
 <p align="center">
   <a href="https://aboutme.nivalis.is/">
-    <img src="https://svg.aboutme.nivalis.is/netease.svg?style=vinyl" alt="NetEase Vinyl — live listening journal and music collection" width="720" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.calendar&amp;id=942a8d17-8011-472b-b8ab-19840f8ff15e&amp;period=month&amp;theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.calendar&amp;id=942a8d17-8011-472b-b8ab-19840f8ff15e&amp;period=month&amp;theme=light">
+      <img src="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.calendar&amp;id=942a8d17-8011-472b-b8ab-19840f8ff15e&amp;period=month&amp;theme=light" alt="网易云 · 月度收听" width="720" />
+    </picture>
   </a>
 </p>
 <!-- END NIVALIS DASHBOARD -->
