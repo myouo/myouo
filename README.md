@@ -28,9 +28,9 @@
 <p align="center">
   <a href="https://aboutme.nivalis.is/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.ranking&amp;id=8f327aa0-f7dc-4b2d-ad36-93047f1dd261&amp;theme=dark&amp;v=rounded-corners">
-      <source media="(prefers-color-scheme: light)" srcset="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.ranking&amp;id=8f327aa0-f7dc-4b2d-ad36-93047f1dd261&amp;theme=light&amp;v=rounded-corners">
-      <img src="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.ranking&amp;id=8f327aa0-f7dc-4b2d-ad36-93047f1dd261&amp;theme=light&amp;v=rounded-corners" alt="网易云 · 听歌双榜" width="720" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.ranking&amp;id=8f327aa0-f7dc-4b2d-ad36-93047f1dd261&amp;theme=dark&amp;v=published-native-v8">
+      <source media="(prefers-color-scheme: light)" srcset="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.ranking&amp;id=8f327aa0-f7dc-4b2d-ad36-93047f1dd261&amp;theme=light&amp;v=published-native-v8">
+      <img src="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.ranking&amp;id=8f327aa0-f7dc-4b2d-ad36-93047f1dd261&amp;theme=light&amp;v=published-native-v8" alt="网易云 · 听歌双榜" width="720" />
     </picture>
   </a>
 </p>
@@ -38,9 +38,9 @@
 <p align="center">
   <a href="https://aboutme.nivalis.is/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.calendar&amp;id=942a8d17-8011-472b-b8ab-19840f8ff15e&amp;period=month&amp;theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.calendar&amp;id=942a8d17-8011-472b-b8ab-19840f8ff15e&amp;period=month&amp;theme=light">
-      <img src="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.calendar&amp;id=942a8d17-8011-472b-b8ab-19840f8ff15e&amp;period=month&amp;theme=light" alt="网易云 · 月度收听" width="720" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.calendar&amp;id=942a8d17-8011-472b-b8ab-19840f8ff15e&amp;period=month&amp;theme=dark&amp;v=published-native-v8">
+      <source media="(prefers-color-scheme: light)" srcset="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.calendar&amp;id=942a8d17-8011-472b-b8ab-19840f8ff15e&amp;period=month&amp;theme=light&amp;v=published-native-v8">
+      <img src="https://svg.aboutme.nivalis.is/render.svg?type=music.netease.calendar&amp;id=942a8d17-8011-472b-b8ab-19840f8ff15e&amp;period=month&amp;theme=light&amp;v=published-native-v8" alt="网易云 · 月度收听" width="720" />
     </picture>
   </a>
 </p>
