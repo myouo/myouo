@@ -27,7 +27,7 @@ jobs:
       - uses: actions/checkout@v6
         with:
           repository: myouo/Atlas
-          ref: 39dfcad98b14d3d239a46792737efdb7b43f9dd6
+          ref: f25348e0e47666544a9e9517270acd77abecafe5
       - uses: actions/setup-node@v7
         with:
           node-version: 24
