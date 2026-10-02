@@ -30,6 +30,13 @@
     <img src="https://svg.aboutme.nivalis.is/dashboard.svg" alt="Nivalis About Me — live music and gaming cards" width="720" />
   </a>
 </p>
+### 🎵 NetEase · Vinyl Edition
+
+<p align="center">
+  <a href="https://aboutme.nivalis.is/">
+    <img src="https://svg.aboutme.nivalis.is/netease.svg?style=vinyl" alt="NetEase Vinyl — live listening journal and music collection" width="720" />
+  </a>
+</p>
 <!-- END NIVALIS DASHBOARD -->
 
 ---
