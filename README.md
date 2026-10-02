@@ -22,6 +22,18 @@
 
 ---
 
+<!-- BEGIN NIVALIS DASHBOARD -->
+### 🌐 Live About Me
+
+<p align="center">
+  <a href="https://aboutme.nivalis.is/">
+    <img src="https://svg.aboutme.nivalis.is/dashboard.svg" alt="Nivalis About Me — live music and gaming cards" width="720" />
+  </a>
+</p>
+<!-- END NIVALIS DASHBOARD -->
+
+---
+
 ### 🛠️ Tech Stack & Toolbox
 
 <p align="left">
